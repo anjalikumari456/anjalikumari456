@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently a final-year student passionate about web development and software engineering.<br>🌐 I’m focusing on frontend and backend web technologies to build responsive, scalable applications.<br>🤝 I’m looking to collaborate on web development projects and real-world coding experiences.<br>📚 I’m currently learning modern web frameworks, APIs, databases, and deployment practices.<br>💬 Ask me about web development, coding practice, and tech projects.<br>⚡ Fun fact: I enjoy turning ideas into functional websites and continuously learning new technologies.
+🎓 I’m currently a prefinal-year student passionate about web development and software engineering.<br>🌐 I’m focusing on frontend and backend web technologies to build responsive, scalable applications.<br>🤝 I’m looking to collaborate on web development projects and real-world coding experiences.<br>📚 I’m currently learning modern web frameworks, APIs, databases, and deployment practices.<br>💬 Ask me about web development, coding practice, and tech projects.<br>⚡ Fun fact: I enjoy turning ideas into functional websites and continuously learning new technologies.
 
 
 ## 🌐 Socials:
